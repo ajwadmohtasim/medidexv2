@@ -1,0 +1,50 @@
+MedicineName,MedicineType,IndicationType,GenericName,Dose,SideEffects,Precautions,ModeOfAction,CompanyName,PackSize
+Angin,Tablet,Pain Relief,Aspirin,75mg,Stomach irritation,Do not take on an empty stomach,Inhibits enzymes to reduce inflammation and pain,PharmaCorp,10 Tablets
+Asorin,Tablet,Pain Relief,Aspirin,75mg,Stomach irritation,Do not take on an empty stomach,Inhibits enzymes to reduce inflammation and pain,HealthCare Inc.,10 Tablets
+Ace,Tablet,Fever,Paracetamol,500mg,Liver damage in high doses,Do not exceed recommended dose,Reduces fever by acting on the hypothalamus,Global Pharma,20 Tablets
+Zofran,Injection,Nausea,Ondansetron,4mg,Drowsiness,Use with caution in liver disease,Blocks serotonin to prevent nausea,BioPharm,5 Ampoules
+Cetrine,Tablet,Allergy,Cetirizine,10mg,Drowsiness,Do not operate machinery,Blocks histamine receptors to reduce allergy symptoms,WellnessMed,30 Tablets
+Advel,Syrup,Inflammation,Ibuprofen,100mg/5ml,Stomach ulcers,Take with food,Reduces inflammation by blocking prostaglandins,PharmaCorp,100ml
+Admox DS,Capsule,Infection,Amoxicillin,250mg,Allergic reactions,Avoid if allergic to penicillin,Inhibits bacterial cell wall synthesis,HealthCare Inc.,20 Capsules
+Cetol,Tablet,Fever,Paracetamol,650mg,Liver damage in high doses,Do not exceed recommended dose,Reduces fever by acting on the hypothalamus,Global Pharma,10 Tablets
+Ibrox,Tablet,Inflammation,Ibuprofen,200mg,Stomach irritation,Take with food,Reduces inflammation by blocking prostaglandins,BioPharm,20 Tablets
+Clavimox,Tablet,Infection,Amoxicillin,500mg,Allergic reactions,Avoid if allergic to penicillin,Inhibits bacterial cell wall synthesis,WellnessMed,30 Tablets
+Aspiz,Tablet,Pain Relief,Aspirin,325mg,Bleeding risk,Avoid in bleeding disorders,Reduces inflammation and pain by enzyme inhibition,PharmaCorp,15 Tablets
+Pyrigesic,Tablet,Fever,Paracetamol,500mg,Liver damage in high doses,Do not exceed recommended dose,Reduces fever by acting on the hypothalamus,HealthCare Inc.,20 Tablets
+Motrin,Tablet,Inflammation,Ibuprofen,400mg,Stomach ulcers,Take with food,Blocks prostaglandins to reduce inflammation,Global Pharma,10 Tablets
+Augmentin,Tablet,Infection,Amoxicillin,875mg,Allergic reactions,Avoid if allergic to penicillin,Inhibits bacterial cell wall synthesis,BioPharm,20 Tablets
+Bupro,Tablet,Pain Relief,Ibuprofen,600mg,Stomach irritation,Take with food,Reduces inflammation by blocking prostaglandins,WellnessMed,15 Tablets
+Flexon,Tablet,Pain Relief,Paracetamol+Ibuprofen,500mg/400mg,Stomach irritation,Take with food,Combines effects to reduce pain and fever,PharmaCorp,10 Tablets
+Nimes,Tablet,Pain Relief,Nimesulide,100mg,Liver damage,Do not take for prolonged periods,Reduces pain and fever by blocking COX enzymes,HealthCare Inc.,10 Tablets
+Crixan,Tablet,Infection,Clarithromycin,500mg,Stomach upset,Take with meals,Inhibits bacterial protein synthesis,Global Pharma,10 Tablets
+Cifran,Tablet,Infection,Ciprofloxacin,500mg,Tendon rupture risk,Avoid strenuous exercise,Inhibits bacterial DNA synthesis,BioPharm,15 Tablets
+Flagyl,Tablet,Infection,Metronidazole,400mg,Metallic taste,Avoid alcohol during treatment,Disrupts bacterial DNA,WellnessMed,20 Tablets
+Tamiflu,Capsule,Viral Infection,Oseltamivir,75mg,Nausea,Take with food,Inhibits viral replication,PharmaCorp,10 Capsules
+Zinetac,Tablet,Acidity,Ranitidine,150mg,Headache,Avoid long-term use,Reduces stomach acid production,HealthCare Inc.,15 Tablets
+Gaviscon,Syrup,Acidity,Alginates,10ml,None,Take after meals,Forms a barrier to prevent reflux,Global Pharma,150ml
+Allegra,Tablet,Allergy,Fexofenadine,120mg,Drowsiness,Avoid driving or heavy machinery,Blocks histamines to reduce allergic reactions,BioPharm,30 Tablets
+Zyrtec,Tablet,Allergy,Cetirizine,10mg,Drowsiness,Avoid driving or heavy machinery,Blocks histamines to reduce allergic reactions,WellnessMed,20 Tablets
+Loratad,Tablet,Allergy,Loratadine,10mg,None,Take once daily,Blocks histamines to reduce allergic reactions,PharmaCorp,15 Tablets
+Calcimax,Tablet,Calcium Deficiency,Calcium Carbonate+Vitamin D3,500mg,None,Take with meals,Supports bone health,HealthCare Inc.,20 Tablets
+Evion,Capsule,Vitamin Deficiency,Vitamin E,400mg,None,Take after meals,Acts as an antioxidant,Global Pharma,15 Capsules
+Neurobion,Tablet,Vitamin Deficiency,B Vitamins,500mg,None,Take daily,Supports nerve health,BioPharm,30 Tablets
+Thyronorm,Tablet,Thyroid Dysfunction,Levothyroxine,25mcg,None,Take on an empty stomach,Replaces thyroid hormones,WellnessMed,50 Tablets
+Glucophage,Tablet,Diabetes,Metformin,500mg,Nausea,Take with meals,Reduces blood sugar levels,PharmaCorp,20 Tablets
+Januvia,Tablet,Diabetes,Sitagliptin,100mg,None,Take once daily,Inhibits DPP-4 enzyme to control blood sugar,HealthCare Inc.,10 Tablets
+Combiflam,Tablet,Pain Relief,Ibuprofen+Paracetamol,400mg/325mg,Stomach irritation,Take with food,Combines effects to reduce pain and fever,Global Pharma,15 Tablets
+Benadryl,Syrup,Cough,Diphenhydramine,5ml,Drowsiness,Avoid driving or heavy machinery,Suppresses cough reflex,BioPharm,150ml
+Corex,Syrup,Cough,Chlorpheniramine+Codeine,5ml,Drowsiness,Avoid driving or heavy machinery,Suppress cough and allergies,WellnessMed,100ml
+Vicks 44,Syrup,Cough,Dextromethorphan,10ml,None,Do not exceed recommended dose,Suppresses cough reflex,PharmaCorp,100ml
+Dolo,Tablet,Fever,Paracetamol,650mg,Liver damage in high doses,Do not exceed recommended dose,Reduces fever by acting on the hypothalamus,HealthCare Inc.,20 Tablets
+Crocin,Tablet,Fever,Paracetamol,500mg,Liver damage in high doses,Do not exceed recommended dose,Reduces fever by acting on the hypothalamus,Global Pharma,10 Tablets
+Calpol,Syrup,Fever,Paracetamol,250mg,None,Take as prescribed,Reduces fever by acting on the hypothalamus,BioPharm,100ml
+Tramadol,Tablet,Pain Relief,Tramadol,50mg,Drowsiness,Avoid driving or heavy machinery,Blocks pain signals in the brain,WellnessMed,10 Tablets
+Enoxaparin,Injection,Blood Clot,Enoxaparin,40mg,Bleeding risk,Avoid in bleeding disorders,Prevents clot formation,PharmaCorp,5 Ampoules
+Warfarin,Tablet,Blood Clot,Warfarin,5mg,Bleeding risk,Avoid vitamin K-rich foods,Prevents clot formation,HealthCare Inc.,20 Tablets
+Clopidogrel,Tablet,Blood Clot,Clopidogrel,75mg,Bleeding risk,Avoid in bleeding disorders,Prevents platelet aggregation,Global Pharma,10 Tablets
+Lipitor,Tablet,High Cholesterol,Atorvastatin,10mg,Muscle pain,Take at night,Reduces cholesterol production,BioPharm,30 Tablets
+Zocor,Tablet,High Cholesterol,Simvastatin,20mg,Muscle pain,Take at night,Reduces cholesterol production,WellnessMed,20 Tablets
+Creon,Capsule,Pancreatic Insufficiency,Pancrelipase,25000 units,None,Take with meals,Replaces digestive enzymes,PharmaCorp,15 Capsules
+Mezym,Tablet,Pancreatic Insufficiency,Pancrelipase,20000 units,None,Take with meals,Replaces digestive enzymes,HealthCare Inc.,20 Tablets
+Lantus,Injection,Diabetes,Insulin Glargine,10ml,Hypoglycemia,Take as prescribed,Lowers blood sugar levels,Global Pharma,1 Vial
+Humalog,Injection,Diabetes,Insulin Lispro,10ml,Hypoglycemia,Take as prescribed,Lowers blood sugar levels,BioPharm,1 Vial
